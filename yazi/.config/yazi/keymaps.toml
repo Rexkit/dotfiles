@@ -227,6 +227,10 @@ keymap = [
   ], run = "cd ~/.config", desc = "Goto ~/.config" },
   { on = [
     "g",
+    ".",
+  ], run = "cd ~/dotfiles", desc = "Goto ~/dotfiles" },
+  { on = [
+    "g",
     "d",
   ], run = "cd ~/Downloads", desc = "Goto ~/Downloads" },
   { on = [
