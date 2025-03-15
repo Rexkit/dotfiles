@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.game.leetcode-nvim" },
   { import = "astrocommunity.project.projectmgr-nvim" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.json" },
